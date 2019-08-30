@@ -10,6 +10,7 @@ export default createGlobalStyle`
         min-height: 100vh;
         font-family: "Varela Round", sans-serif;  
         user-select: none;
-    
+    display: flex;
+    flex-wrap: wrap;
       }
 `;
